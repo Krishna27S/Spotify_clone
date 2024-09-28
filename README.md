@@ -52,3 +52,6 @@ This component can be integrated into any React application where audio playback
 
 ---
 
+![spotify clone ](https://github.com/user-attachments/assets/175adf3b-8e22-4378-b9da-6aacbe0b96ef)
+
+
